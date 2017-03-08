@@ -1,3 +1,5 @@
+Based on tutorial from Houssein Djirdeh at https://houssein.me/continuous-integration-angular-firebase-travisci
+
 # BoomShakalaka
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
